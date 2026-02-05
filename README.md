@@ -73,7 +73,7 @@ This project prioritizes accessibility and computational efficiency:
 ## Citation
 
 If you reference this work, please cite the associated technical paper:
-> [cite_start]A. Mena, "Robust Machine Learning Against Poisoning Attacks Using Distributed Ensemble Learning with Pruning," Rutgers University [cite: 3-5].
+> A. Mena, "Robust Machine Learning Against Poisoning Attacks Using Distributed Ensemble Learning with Pruning," Rutgers University [cite: 3-5].
 
 ---
-[cite_start]*This research was conducted as part of coursework for a Security Engineering class[cite: 275].*
+*This research was conducted as part of coursework for a Security Engineering class[cite: 275].*
